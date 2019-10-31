@@ -1,0 +1,19 @@
+{
+  "name": "ebbinghaus_plan_generator",
+  "version": "1.0.0",
+  "description": "Ebbinghaus Plan Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ebbinghaus",
+    "Plan",
+    "Generator"
+  ],
+  "author": "ping40",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.3.0"
+  }
+}
